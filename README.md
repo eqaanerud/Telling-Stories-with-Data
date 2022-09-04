@@ -1,5 +1,8 @@
 # Telling-Stories-with-Data
+My portfolio page. 
 
-link to live site https://eqaanerud.github.io/Telling-Stories-with-Data/
+# About me
+Here are a few things about me...
 
-Type Type Type
+## What I hope to learn
+
