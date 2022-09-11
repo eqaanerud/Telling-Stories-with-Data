@@ -14,6 +14,9 @@ My experience with data viz in the arts management world is minimal, either beca
 After the program, I'm flexible with where I would like to be. My goal is to work in a general management capacity in a nonprofit theatre. 
 
 # Portfolio
+
+[Visualizing Gov Debt](VisualizingGovDebt.md)
+
 ## Data Visualization #1
 ## Critique by Design
 ## Final Project Part I
