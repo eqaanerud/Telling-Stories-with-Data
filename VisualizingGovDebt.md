@@ -5,3 +5,9 @@
 ### Data Visualization #1
 This is my first data visualization made with Flourish. It illustrates the rising general government debt to GDP ratio across the world. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11154742"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Data Visualization #2
+This is my second data visualization made with Flourish. 
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/11154892"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+##### Methodology
+With this large of a dataset...
