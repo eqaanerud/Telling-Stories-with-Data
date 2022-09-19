@@ -99,5 +99,46 @@ Negatives:
 - Not detailed enough to show each percentage
 - Displaying four year's worth of data may be too complicated and confusing
 
-My interviewees were not as enthusiastic: 
+My interviewees had some similar thoughts: 
+
+Adult, early 30's: “Easier to read since you can color coordinate and see which one had the most presence during the Great Recession. In this case, it would be the less than 10% of the budget deficits. The title even is simpler and says “Theater Deficits…” “I gotta know what the dots are – are they theatres or are they percentages? How much does a dot equal?”
+
+Student, early 20's: "The dot chart is not effective because it is about percentages."
+
+## The Simple Area Chart
+
+For my last draft at a redesign, I kept the Area Chart approach but compacted and eliminated many elements of the original design. 
+
+![area chart](https://user-images.githubusercontent.com/112351182/190935253-1b599eba-4084-4e03-8196-d48da67dbe46.jpg)
+
+Here were my observations on this approach: 
+
+Positives: 
+- More condensed version of the original
+- Percentages are more clear
+
+Negatives
+- The format of the Area chart manipulates some of these data points to make it seem like there are significant changes when those shifts are minimal at best.  
+
+My interviewees were most enthusiastiac about this redesign: 
+
+Adult, early 30's: “It better shows relationship between the three categories. I know what each of the areas mean – it is better labeled than the second chart. The visuals help show the differences better. The title is better for sure. If you are presenting this to somebody, I feel like you would have to take a 10-minute conversation about what CUNA is. Changing the title to say “theater deficits peaked” is simple and easy."
+
+Student, early 20's: "I prefer the area chart. Because it shows the volume of money.  Write in the percentages for each category during the recession.I wonder if maybe you could do a footer definition of CUNA in Tableau.“
+
+The Area map was my least favorite design because I wanted to get as far away from the original as possible, so it was interesting when both interviewees preferred that design because it best illustrated the composition of theatres’ CUNA over time. 
+
+What struck me the most though, was that both interviewees were unclear about what was being measured. They thought that the charts represented the percentage of CUNA in the organization’s budget, but the charts actually represent the percentage of theatres with that classification of CUNA. I needed to clarify my vertical axis. 
+
+This feedback helped me finalize my design as I built my final solution in Tableau. I was going to focus on: 
+-	A simple title leading with “Theater Deficits” that doesn’t mention CUNA. 
+-	A definition of CUNA in the visualization footer to clarify wany misconception for viewers who don’t know the term. 
+-	Specifying my vertical axis is percentage of theatres with that much CUNA. 
+-	Abbreviating the labels for each CUNA category
+
+## The Final ReDesign
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11218734"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
 
