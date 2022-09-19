@@ -50,4 +50,32 @@ We're also getting mixed messages about composition in the original area graph. 
 
 ![5](https://user-images.githubusercontent.com/112351182/190934177-919acfb7-a8bc-4438-8b7a-e0598ea4af00.jpg)
 
-### The 
+### The Slope Chart
+
+My inclination to start with a slope chart was because Slope charts highlight 2-3 main points over the course of time, and I wanted to focus on the years during the Great Recession. I plotted only years 2007 – 2010, clarified the vertical axis as “Percent of Theaters”, and limited the categories to only negative CUNA classifications. Bye rainbow area chart! 
+
+![IMG_6194](https://user-images.githubusercontent.com/112351182/190934666-896418ed-6df3-4129-b7dc-eed979d2f35e.jpg)
+
+However, my interviewees were not impressed. Here were their thoughts: 
+
+**Can you tell me what you think this is? **
+
+Adult, early 30’s: “The title is kind of a redundancy. Negative CUNA (deficit) is kind of a given during a Great Recession.”
+
+**Can you describe to me what this is telling you? **
+
+Adult, early 30’s: “The highest deficit for theatres during the Great Recession was in 2009. What are we measuring? “
+
+**Who do you think is the intended audience for this?**
+
+Adult, early 30’s: “I’d assume financial forecasters of theatres depending on how the economy is doing to predict any shortcomings or deficits that could occur. Anyone that wants to use a measure. Investors or donors. Or educational purposes – people going to school. “
+
+**What do you think is confusing about the visualization?**
+
+Adult, early 30’s: “It feels like a double negative – negative deficits just sound confusing. The title is misleading.”
+
+Student, early 20’s: “It is a double negative to say “Negative CUNA” deficit. 
+
+**Does this tell you what CUNA is?**
+
+Adult, early 30’s: “It tells me about the deficits for sure. It seems like CUNA is just a confusing way to say assets minus expenses. It would be easier to say ‘Losses for Theatres During the Great Recession.’”
