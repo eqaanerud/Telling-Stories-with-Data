@@ -130,9 +130,8 @@ The Area map was my least favorite design because I wanted to get as far away fr
 
 What struck me the most though, was that both interviewees were unclear about what was being measured. They thought that the charts represented the percentage of CUNA in the organization’s budget, but the charts actually represent the percentage of theatres with that classification of CUNA. I needed to clarify my vertical axis. 
 
-This feedback helped me finalize my design as I built my final solution in Tableau. I was going to focus on: 
+This feedback helped me finalize my design as I built my final solution in Flourish. I focused on:
 -	A simple title leading with “Theater Deficits” that doesn’t mention CUNA. 
--	A definition of CUNA in the visualization footer to clarify wany misconception for viewers who don’t know the term. 
 -	Specifying my vertical axis is percentage of theatres with that much CUNA. 
 -	Abbreviating the labels for each CUNA category
 
@@ -140,5 +139,4 @@ This feedback helped me finalize my design as I built my final solution in Table
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11218734"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
-
+Though the design capabilities in Flourish are somewhat limited, I believe that this visualization is strides ahead of the original in clarity, brevity, and intention. The only thing that I wish I could add to it is a definiton of CUNA in the footer to clarify any misconceptions. If this visualization was placed in the Theater Communications Group article, there would be no need, as the article already explains CUNA. 
