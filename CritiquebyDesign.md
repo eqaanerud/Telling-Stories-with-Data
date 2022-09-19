@@ -58,11 +58,11 @@ My inclination to start with a slope chart was because Slope charts highlight 2-
 
 However, my interviewees were not impressed. Here were their thoughts: 
 
-**Can you tell me what you think this is? **
+**Can you tell me what you think this is?**
 
 Adult, early 30’s: “The title is kind of a redundancy. Negative CUNA (deficit) is kind of a given during a Great Recession.”
 
-**Can you describe to me what this is telling you? **
+**Can you describe to me what this is telling you?**
 
 Adult, early 30’s: “The highest deficit for theatres during the Great Recession was in 2009. What are we measuring? “
 
@@ -79,3 +79,25 @@ Student, early 20’s: “It is a double negative to say “Negative CUNA” def
 **Does this tell you what CUNA is?**
 
 Adult, early 30’s: “It tells me about the deficits for sure. It seems like CUNA is just a confusing way to say assets minus expenses. It would be easier to say ‘Losses for Theatres During the Great Recession.’”
+
+Both interviewees were confused by the title on the Slope Graph “Negative CUNA (deficits)…” They both did not know what CUNA meant before viewing the graph and didn’t feel why CUNA should even be used instead of a more widely known, accessible term. 
+
+## The Dots
+
+I then showed my interviewees my second drafted redesign: the dots. I only mapped out 2009 and 2019 for this viz for simplicity's sake, but if I had realized this to fruition, I would have included 2007 - 2010. 
+
+![dots](https://user-images.githubusercontent.com/112351182/190935075-cc3d914d-fff7-4095-ba30-6c469bcd54aa.jpg)
+
+Here were my personal thoughts on this approach: 
+
+Positives: 
+- Illustrates visual composition of the perecent of theaters falling in that group
+- Hierarchy of most to least # of theatres
+- Minimalist Design
+
+Negatives: 
+- Not detailed enough to show each percentage
+- Displaying four year's worth of data may be too complicated and confusing
+
+My interviewees were not as enthusiastic: 
+
