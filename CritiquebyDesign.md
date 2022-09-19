@@ -28,3 +28,26 @@ Not only that, but the audience will expect to learn about organizations at a cr
 Using Tableau’s Visual Vocabulary, I looked at the different ways to represent changing trends besides an area chart. I’m most interested in a Slope graph because they are best for illustrating 2 or 3 points in a series of data, and I want to focus on the years around the Great Recession. If redesigning the type of visualization was my strategy, I would also want to significantly scale back the amount of information being conveyed in the graph. I would eliminate the percentages in each column for the years 2004 to 2006 and 2010 to 2017 to give the visualization room to breathe. 
 
 With the primary audience of theatre executives in mind, I believe that the visualization is missing an effective explanation of what CUNA is, which could be given in the simplest of terms. This would be most easily changed in the title. “Negative CUNA (deficits) peaked for theaters during the Great Recession,” is a title change that might suffice. It articulates the focus of the graph. 
+
+Even as I experimented with a Slope graph, I noticed how in the original Area chart that the yellow area for “Negative CUNA less than 10% of the budget” appears to increase dramatically from 2008 to 2009, but the increase in the percentage of theatres is only by 2%. The format of the Area chart manipulates some of these data points to make it seem like there are significant changes when those shifts are minimal at best.  
+
+## What is CUNA?
+When I started redesigning, I had to breakdown what the different elements of the original visualization. Any viewer who may not be familiar with Theater Communications Group’s classification of net assets will be confused by the CUNA categories. CUNA is the Change in Unrestricted Net Assets of an organization, or the annual bottom line (see below). 
+
+<img width="692" alt="Screen Shot 2022-09-18 at 8 10 26 PM" src="https://user-images.githubusercontent.com/112351182/190933996-168e07f5-f1c0-4589-8bf6-c6f9dd74c7df.png">
+Source: Theater Communcations Group, Theatre Facts 2020
+
+There are two basic categories of CUNA: positive and negative. Positive CUNA is good (a surplus), and negative CUNA is not good (a deficit). After that basic distinction, there are varying levels of how large that CUNA is as a percentage of the organization’s budget. Some CUNA is greater than 20% of the budget, some is between 10% and 20%, and some CUNA is less than 10% of the organization’s budget. 
+
+## Wireframes
+The original area graph is confusing because we can't immediately see what the lines are supposed to be telling us. The lines represent the **percentage of theaters with that specified CUNA level.**
+
+![4](https://user-images.githubusercontent.com/112351182/190934110-182948d5-ab2f-42cb-a402-76003a1a0d46.jpg)
+
+We're also getting mixed messages about composition in the original area graph. There are two different elements of composition: 
+- CUNA as a percentage of the organization's budget
+- theaters with negative or positive CUNA
+
+![5](https://user-images.githubusercontent.com/112351182/190934177-919acfb7-a8bc-4438-8b7a-e0598ea4af00.jpg)
+
+### The 
