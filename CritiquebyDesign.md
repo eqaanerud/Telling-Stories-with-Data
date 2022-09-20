@@ -141,3 +141,7 @@ This feedback helped me finalize my design as I built my final solution in Flour
 <div class="flourish-embed flourish-chart" data-src="visualisation/11218734"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Though the design capabilities in Flourish are somewhat limited, I believe that this visualization is strides ahead of the original in clarity, brevity, and intention. The only thing that I wish I could add to it is a definiton of CUNA in the footer to clarify any misconceptions. If this visualization was placed in the Theater Communications Group article, there would be no need, as the article already explains CUNA. 
+
+## In-Class Critique
+
+The main feedback from the in-class crit exercise was that the percentage labels did not need to be on the final redesign. My partners explained that the labels were distracting and unappealing aesthetically, which I agreed with. They suggested using a popup system, where as viewers scrolled over each point, an explanation would pop up saying, "In 2009, 21% of theaters had negative CUNA over 20% of their budget." I attempted this in Flourish, but I can't get each data point to include **both** the specific year and percentage value. They also agreed that a brief CUNA equation as an annotation in the visualization would really help. 
