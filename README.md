@@ -32,6 +32,6 @@ After the program, I'm flexible with where I would like to be. My goal is to wor
 ## Critique by Design
 [Critique by Design](CritiquebyDesign.md)
 ## Final Project Part I
-[Final Project Part I](Final_project_Evan.md)
+[Final Project Part I](final_project_Evan.md)
 ## Final Project Part II
 ## Final Project Part III
