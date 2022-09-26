@@ -12,3 +12,6 @@ I'm interested in analyzing the trends of the operating cash reserves of NYC-bas
 
 ### Initial Sketches
 *These are not reflective of any raw data but instead represent the types of visualizations I will be utilizing.*
+![RainyDayFunds1](https://user-images.githubusercontent.com/112351182/192176697-6a47f158-8388-465a-b6a0-5e1686548a2d.jpg)
+
+![RainyDayFunds2](https://user-images.githubusercontent.com/112351182/192176733-78ce8845-4dfa-4a8f-9afb-b3d89e928e7f.jpg)
