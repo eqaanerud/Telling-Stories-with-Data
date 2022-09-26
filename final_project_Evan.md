@@ -18,3 +18,7 @@ I'm interested in analyzing the trends of the operating cash reserves of NYC-bas
 ![RainyDayFunds2](https://user-images.githubusercontent.com/112351182/192176733-78ce8845-4dfa-4a8f-9afb-b3d89e928e7f.jpg)
 
 ### Data
+I will be collecting data from the New York State Charities Bureau website, on their Charities Search Tool. The website contains the audited financial statements, Form 990, and other tax filings (current and historical) for any charity registered in New York State. 
+
+I will be accessing each organization's self-reported audited financial statements from the website to find if they have any operating cash reserve. On an audited financials, the organization will report any cash reserves under Net Assets in the Statement of Financial Position, otherwise known as a Balance Sheet. I will compile a list of NYC nonprofit performing arts organizations that I want to research, and categorize them into three categories: operating budget below $5 million, $5 million to $10 million, and above $10 million. For each organization, I will compile a spreadsheet listing each organization's historical unrestricted operating net assets/cash reserve, categorized by each year. 
+[Google Drive Link of Audited Financial Statements]:<https://drive.google.com/drive/folders/1ntsbEXhVnsAnYZQLFbtJTMHq8N1xS9_m?usp=sharing>
