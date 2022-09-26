@@ -1,7 +1,7 @@
 ### Final Project Part I
 
 ### High Level Summary
-I'm interested in analyzing the trends of the operating cash reserves of NYC-based arts and cultural organizations over time. I'm curious to if and how arts and cultural nonprofits are using annual surpluses to fund these unrestricted cash reserves, and how they are affecting their bottom line. 
+I'm interested in analyzing the trends of the operating cash reserves of NYC-based arts and cultural organizations over time. I'm curious to see if and how arts and cultural nonprofits are using annual surpluses to fund these unrestricted cash reserves, and how they are affecting their bottom line. 
 ### Project Structure
 - Display the chart of a general trend in cash reserves of NYC-based arts organizations.
 - Give audience 5-seconds to digest information and comprehend the visualization.
