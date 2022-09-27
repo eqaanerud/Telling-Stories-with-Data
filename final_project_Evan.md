@@ -1,24 +1,28 @@
 ### Final Project Part I
 
 ### High Level Summary
-I'm interested in analyzing the operating cash levels (cash-on-hand) of NYC-based nonprofit theaters over the past five years. I'm curious to see trends in how theaters are doing cash-wise, and if their business model or fiscal management has a positive impact on their cash levels. 
+My project will analyze trends in the **operating cash (cash-on-hand)** of NYC-based nonprofit theaters over the past five years. I'm curious to see trends in which theaters are doing cash-wise, and if their revenue model or reserve strategy has a positive impact on their cash levels. 
 
 ### Project Structure
 ##### INTRODUCTION:
 - (TEXT ON SCREEN): Did you know that most NYC nonprofit theaters typically have less than one month of cash-on-hand? (Gilman Foundation)
 - (VISUAL): Display chart of 12 calendars, with only one chart filled in green. 
 - Nonprofit organizations should have about 3-6 months of Operating Cash to cushion against unforseen expenses and uneven cash flow.
-- (VISUAL): Display chart of a general trend in cash-on-hand over the past five years with three categories of theaters: budgets under $3 million, budgets between $3 million and $10 million, and budgets over $10 million.
-- Give audience 5-seconds to digest information and comprehend the visualization.
 - Why are theaters so strapped for cash? And what has the pandemic done to their cash levels? 
 
-##### MAIN POINT #1:
-- Cash-on-hand differs between theaters of different budget sizes. 
-- (VISUAL) Slope graph of theaters below a $3 million budget and their cash levels. 
-- Display a conceptual visualization (exploratory, ideas-based) that conveys the role of net assets in a nonprofit organization. 
-- Explain the concept of cash reserves in financial management - keeping money away (generated from a surplus) to save for future years. Cash reserves can signal fiscal responsibility and proactiveness for nonprofit organizations that may face future hardship. The most common trigger for use of operating reserves is on the income side, such as when a previously reliable source is reduced or withdrawn.
-- Explain any significant shifts in unrestricted cash reserves over the past few years, and why those shifts may have occurred (COVID, Government relief funding, etc.)
-- Show where on the organization's audited financial statements that this information is accessible.
+##### MAIN POINT 1: Cash-on-hand differs between theaters of different budget sizes
+- (VISUAL): Display chart of a general trend in cash-on-hand over the past five years with three categories of theaters: budgets under $3 million, budgets between $3 million and $10 million, and budgets over $10 million.
+- Explain any similarties or differences between cash-on-hand with theaters in the three budget categories.
+
+##### MAIN POINT 2: Cash levels changed dramatically during the pandemic
+- (VISUAL): Focus on the same graph but through only 2019 to 2021, or whatever data is most recent. 
+- Explain these significant shifts, and why they may have occurred (COVID spending, limited income, Government relief funding, etc.)
+
+##### MAIN POINT 3: What are the healthy theaters doing well?
+- (VISUAL): Graphs of organizations that use cash reserves to aid any deficits. 
+
+##### CALL TO ACTION: Unrestricted Cash Reserves
+- Cash reserves can signal fiscal responsibility and proactiveness for nonprofit organizations that may face future hardship. The most common trigger for use of operating reserves is on the income side, such as when a previously reliable source is reduced or withdrawn.
 
 ### Initial Sketches
 *These are not reflective of any raw data but instead represent the types of visualizations I will be utilizing.*
