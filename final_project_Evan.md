@@ -29,6 +29,14 @@ My project will analyze trends in the **operating cash (cash-on-hand)** of NYC-b
 
 ![Beige Colorful Pricing Table Comparison Chart-2](https://user-images.githubusercontent.com/112351182/192643761-acf55bd5-c103-45a6-b7dc-b7153aa68d43.png)
 
+![final1](https://user-images.githubusercontent.com/112351182/192656282-fb886824-3b74-4604-a051-36afa39c370c.jpg)
+
+![final2](https://user-images.githubusercontent.com/112351182/192656286-f03af3bd-6b24-4a5f-b5e4-bdb69f6bfc8d.jpg)
+
+![final3](https://user-images.githubusercontent.com/112351182/192656297-843750f8-0f1d-4ea0-8dae-198f84078536.jpg)
+
+*These are miscellaneous sketches that I first drew before my first Group Critique, when I was going to be focusing on the cash reserves of these organizations, not their cash-on-hand.*
+
 ![RainyDayFunds1](https://user-images.githubusercontent.com/112351182/192176697-6a47f158-8388-465a-b6a0-5e1686548a2d.jpg)
 
 ![RainyDayFunds2](https://user-images.githubusercontent.com/112351182/192176733-78ce8845-4dfa-4a8f-9afb-b3d89e928e7f.jpg)
