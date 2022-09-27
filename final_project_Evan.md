@@ -46,8 +46,18 @@ These are a few sample organizations that I will pull financial data for:
 - Irish Repertory Theater
 - Signature Theater
 - Manhattan Theater Club
+- The Public Theater
+- New Group
+- Playwrights Horizons
+- Second Stage Theater
+- Atlantic Theater Company
+- The Moth 
+- Classic Stage Company
+- The Barrow Group
+- The Classical Theatre of Harlem 
+- Repertorio Espanol
 
-I will also be using data gathered from arts research groups like Theater Communications Group and Southern Methodist University (SMU) Data Arts. Both firms co-publish ***Theater Facts 2020***, which includes helpful data that they have gathered from a survey of regional theatres nationwide. I will use a table from the report titled "Average Working Capital (103 theatres)," which shows that theaters nationwide have on average a negative working capital ratio, meaning they are regularly struggling through cash flow crunches. 
+I will also be using data gathered from arts research groups like Theater Communications Group and Southern Methodist University (SMU) Data Arts. Both firms co-publish **Theater Facts 2020**, which includes helpful data that they have gathered from a survey of regional theatres nationwide. I will use a table from the report titled "Average Working Capital (103 theatres)," which shows that theaters nationwide have on average a negative working capital ratio, meaning they are regularly struggling through cash flow crunches. 
 
 I will be accessing each organization's self-reported audited financial statements from the website to find if they have any operating cash reserve. On an audited financials, the organization will report any cash reserves under Net Assets in the Statement of Financial Position, otherwise known as a Balance Sheet. I will compile a list of NYC nonprofit performing arts organizations that I want to research, and categorize them into three categories: operating budget below $3 million, $3 million to $10 million, and above $10 million. For each organization, I will compile a spreadsheet listing each organization's historical unrestricted operating net assets/cash reserve, categorized by each year. 
 [Google Drive Link of Audited Financial Statements]: <https://drive.google.com/drive/folders/1ntsbEXhVnsAnYZQLFbtJTMHq8N1xS9_m?usp=sharing>
