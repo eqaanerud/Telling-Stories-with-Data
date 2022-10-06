@@ -113,4 +113,5 @@ Public Policy/Class Peer: “You should move the Cash-On-Hand definition to a la
 - Move definition of Cash-On-Hand metric to further in the presentation and include the calculation spelled out
 - Add a collage of the theater logos that I pulled financial data from to introduce the data set I was working with. 
 - Add more theatre/performance-specific images to the presentation
+- Write a thought about how nonprofits with more reserves were less likely to reduce operating hours, lose staff, or experience difficult acquiring supplies or vendor services. 
 - Add a closing thought or idea!
