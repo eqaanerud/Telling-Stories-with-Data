@@ -28,3 +28,5 @@ The only peer critique that I was not able to fix in my presentation is the blur
 **What Stands Out**
 
 One thing that stands out to me from this process is how intentional you have to be with guiding your audience along in your story. Especially with a data and numbers-heavy project like mine, I felt like I had to explain almost every facet of my process to get to the final visualization. Since I extracted my data from over one hundred financial statements, I felt it was necessary to explain my data metrics and how I rendered each visualization. It was difficult to decide what to keep and what to toss for mentioning this process. 
+
+[Back to Home](README.md)
