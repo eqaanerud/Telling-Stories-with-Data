@@ -1,3 +1,5 @@
+*Final Project Part III*
+
 **Changes from Part II**
 
 I’ve made some considerable changes since submitting my Part II of the Final project. I have a good diversity of data visualizations on my Shorthand site now after I added a tree map, lollipop chart, and a bubble chart. I made a bubble chart to show the specific theatres that I selected for my data analysis. I included the theater logos in the chart, and I used the colors blue and orange to differentiate between theatres with budgets below $1 Million and above $1 Million. I then changed the first two-line graphs to reflect this color change, so I was consistent across the presentation. 
