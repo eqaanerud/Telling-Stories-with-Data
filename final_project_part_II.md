@@ -115,3 +115,6 @@ Public Policy/Class Peer: “You should move the Cash-On-Hand definition to a la
 - Add more theatre/performance-specific images to the presentation
 - Write a thought about how nonprofits with more reserves were less likely to reduce operating hours, lose staff, or experience difficult acquiring supplies or vendor services. 
 - Add a closing thought or idea!
+
+
+Go to Final Project Part III: [final_project_part_III.md]
