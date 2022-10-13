@@ -26,3 +26,4 @@ Datawrapper Academy, “What to Consider When Choosing Colors for Data Visualiza
  
 Coale, Howard, "Importance of Color, Fonts, and Icons," Data and Design, https://trinachi.github.io/data-design-builds/ch15.html. 
 
+[Back to Home](README.md)
