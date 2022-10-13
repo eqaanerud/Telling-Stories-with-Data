@@ -1,4 +1,4 @@
-###Final Project Part III
+### Final Project Part III
 
 [Final Story in Shorthand](https://carnegiemellon.shorthandstories.com/cashonhand/index.html)
 
