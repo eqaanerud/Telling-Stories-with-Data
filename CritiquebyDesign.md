@@ -145,3 +145,5 @@ Though the design capabilities in Flourish are somewhat limited, I believe that 
 ## In-Class Critique
 
 The main feedback from the in-class crit exercise was that the percentage labels did not need to be on the final redesign. My partners explained that the labels were distracting and unappealing aesthetically, which I agreed with. They suggested using a popup system, where as viewers scrolled over each point, an explanation would pop up saying, "In 2009, 21% of theaters had negative CUNA over 20% of their budget." I attempted this in Flourish, but I can't get each data point to include **both** the specific year and percentage value. They also agreed that a brief CUNA equation as an annotation in the visualization would really help. 
+
+[Back to Home](README.md)
