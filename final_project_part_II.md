@@ -117,4 +117,4 @@ Public Policy/Class Peer: “You should move the Cash-On-Hand definition to a la
 - Add a closing thought or idea!
 
 
-Go to Final Project Part III: [final_project_part_III.md]
+[Go to Final Project Part III](final_project_part_III.md)
