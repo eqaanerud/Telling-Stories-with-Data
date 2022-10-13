@@ -37,4 +37,4 @@ After the program, I'm flexible with where I would like to be. My goal is to wor
 [Final Project Part II](final_project_part_II.md)
 ## Final Project Part III
 [Final Project Part III](final_project_part_III.md)
-[Cash Talks: The Impact of Financial Reserves of NYC Theaters](https://carnegiemellon.shorthandstories.com/cashonhand/index.html)
+[Cash Talks, The Impact of Financial Reserves of NYC Theaters](https://carnegiemellon.shorthandstories.com/cashonhand/index.html)
